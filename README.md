@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p-value-za
 - 👀 I’m interested in Data Science, specifically Data Analysis
-- 🌱 I’m currently learning Data Science while completing a Bachelor's Degree in Computer Science 
+- 🌱 I have recently completed a Bachelor's Degree in Computer Science 
 - 💞️ I’m looking to collaborate on data analysis, data cleaning, anything along those lines to gain experience and skill in the data analysis field. 
 - 📫 How to reach me ...peter.vanderross13@gmail.com
 
